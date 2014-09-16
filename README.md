@@ -6,3 +6,5 @@
 5. I appropriately labeled the data set with descriptive variable names
 6. Finally I created an independent tidy data set with the average of each variable for each activity and each subject
 the R script I used is named **run_analysis.R** and the codebook is named **CodeBook.md**
+
+PS. for the script to properly run, the folders: test and train from the data should be in R folder
